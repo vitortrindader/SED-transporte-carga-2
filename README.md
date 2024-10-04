@@ -34,6 +34,8 @@ O sistema de transporte de carga consiste em uma via circular composta por **8 s
 - **Combustível**: Cada veículo tem uma variável que representa seu nível de combustível, que é decrementado a cada seção percorrida. 
   - O combustível é calculado como `8 * N`, onde `N` é o número do veículo.
   - Exemplo: Veículo 1 tem `8` unidades de combustível, Veículo 2 tem `16` e Veículo 3 tem `24`.
+ 
+    ![image](https://github.com/user-attachments/assets/c3753d1e-3993-4448-90ff-75467e1727b3)
 
 ## Implementação no Uppaal
 
